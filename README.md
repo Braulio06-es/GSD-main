@@ -1,7 +1,7 @@
 # Hello Everyone!
 
 
-This game was made for a **school project**, so it's everything but perfectly pulished. However, I consider it's worth to try if you want to
+This game was made for a **school project**, so it's anything but perfectly pulished. However, I consider it's worth to try if you want to
 know how can a java game be made.
 
 
